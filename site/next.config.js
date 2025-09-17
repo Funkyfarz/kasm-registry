@@ -6,9 +6,9 @@ const nextConfig = {
   env: {
     name: 'FUAS Registry',
     description: 'FUAS Repository for KASM Workspaces.',
-    icon: 'https://github.com/Funkyfarz/kasm-registry/blob/1.1/site/public/fuaslogo.svg',
-    listUrl: 'https://github.com/Funkyfarz/kasm-registry',
-    contactUrl: 'https://github.com/Funkyfarz/kasm-registry/issues',
+    icon: 'https://Funkyfarz.github.io/kasm-registry/1.1/fuaslogo.svg',
+    listUrl: 'https://Funkyfarz.github.io/kasm-registry/',
+    contactUrl: 'https://Funkyfarz.github.io/kasm-registry/issues',
   },
   reactStrictMode: true,
   basePath: '/kasm-registry/1.0',
